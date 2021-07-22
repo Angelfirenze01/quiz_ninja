@@ -1,4 +1,5 @@
-> console.log("Hello, World!");
-<<undefined
+> console.log("Hello, World!"); <<
+undefined
 
->:help
+    >
+    : help
